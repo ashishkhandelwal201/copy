@@ -1,0 +1,7 @@
+controller -> IndexController
+models -> connection , IndexModel
+routes -> IndexRouter
+schema -> RegisterSchema
+views -> fetch , index , register
+app
+package
